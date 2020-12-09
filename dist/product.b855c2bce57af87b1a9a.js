@@ -1,0 +1,1 @@
+(()=>{"use strict";arr.forEach((function(o,c){console.log("==>",o,c)}))})();
